@@ -1,4 +1,4 @@
-# Ubeswap-Destiny-Hackathon-Gitcoin
+# Ubeswap-Destiny-Hackathon-Gitcoin - IntoTheVerse
 <b>Our Ubeswap/Celo Themed NFT art collection minted on [Arigallery](https://twitter.com/ariexchange)</b>
 
 [IntoTheVerse](https://twitter.com/IntoTheVerse_) is An NFT Utility And An Impact Is Driven Gaming Metaverse. We Are Building An Open-World MMORPG And World-Builder Game-Fi Metaverse On Celo. IntoTheVerse Will Feature The [Ubeswap](https://twitter.com/ubeswap) Bank Building Where Players Will Be Able To Enter With Their Avatars, Perform Token Swaps As Per Their Needs On Celo, And Also Be Able To Deposit Liquidity And Farm UBE For The LP Tokens Deposited And Much More. 
